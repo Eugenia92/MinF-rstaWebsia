@@ -1,0 +1,14 @@
+.css-2wuwt4 {
+    display: flex;
+    background-color: #30949c;
+    -webkit-box-pack: justify;
+    justify-content: space-evenly;
+    -webkit-box-align: center;
+    align-items: center;
+    padding: 24px 30px;
+    border-bottom: 4px solid rgb(26 94 127);
+    cursor: pointer;
+    flex-direction: column;
+    align-content: center;
+    flex-wrap: nowrap;
+}
